@@ -18,6 +18,7 @@ Features 4 RED LEDS in the hilt to light up the blade.
 
 
 Printed using an Ender 3 V2 and these print settings: 
+
 <img width="601" height="213" alt="image" src="https://github.com/user-attachments/assets/33ef4da1-4f0f-4649-856f-e3d7930c1f2b" />
 <img width="597" height="228" alt="image" src="https://github.com/user-attachments/assets/baaee17e-ff15-4165-a0e7-f744f4dd59d4" />
 <img width="602" height="302" alt="image" src="https://github.com/user-attachments/assets/e0a9452d-7f4b-474e-9fc2-f6dc9b3ab23b" />
